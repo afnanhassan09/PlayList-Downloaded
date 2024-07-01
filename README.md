@@ -1,2 +1,16 @@
-# PlayList-Downloaded
-You can download any music playlist from youtube music using this script. You must have python installed along with some libraries like pytube and moviepy. The script first downloads the audio file in mp4 format and then convert it to mp3. Paster the playlist url in the code and sit back as this script downloads hunders of you songs
+# PlayList-Downloader
+# YouTube Music Playlist Downloader
+
+This Python script downloads audio from YouTube Music playlists, converts them to MP3 format, and saves them locally.
+
+## Features
+
+- Downloads audio from YouTube Music playlists.
+- Converts downloaded audio files to MP3 format.
+- Utilizes Python libraries like pytube and moviepy for downloading and conversion.
+
+## Usage
+
+1. **Install dependencies**:
+   ```bash
+   pip install pytube moviepy
